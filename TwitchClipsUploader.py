@@ -10,7 +10,7 @@ import os
 import time
 from datetime import datetime
 
-ClientID = "" # Put your youtube API ClientID here.
+ClientID = "hvbypaumhng8r11j0l20qooi8b2mmy" # Put your youtube API ClientID here.
 NumberOfClips = 6 # change the number if you have more youtube api qouta. Leave 6 if normal qouta amount.
 urls = []
 titles = []
